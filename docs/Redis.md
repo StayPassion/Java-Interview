@@ -10,7 +10,7 @@
 
 1. 缓存空数据，查询返回的数据为空，仍把这个空结果进行缓存。`{key:1,value:null}`
 
-   <img src="redis-picture\1.png" alt="3" style="zoom:60%;" />
+   <img src="https://raw.githubusercontent.com/StayPassion/Java-Interview/master/docs/redis-picture/1.png" alt="3" style="zoom:60%;" />
 
    **优点：**简单
 
@@ -18,7 +18,7 @@
 
 2. 布隆过滤器。
 
-   <img src=".\redis-picture\2.png" alt="3" style="zoom:60%;" />
+   <img src="https://raw.githubusercontent.com/StayPassion/Java-Interview/master/docs/redis-picture/2.png" alt="3" style="zoom:60%;" />
 
    **优点：**内存占用较少，没有多余key
 
