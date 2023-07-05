@@ -32,11 +32,11 @@
 
 **布隆过滤器作用：**布隆过滤器可以用于检索一个元素是否在一个集合中。
 
-<img src=".\redis-picture\3.png" alt="3" style="zoom:60%;" />
+<img src="https://raw.githubusercontent.com/StayPassion/Java-Interview/master/docs/redis-picture/3.png" alt="3" style="zoom:60%;" />
 
 
 
-<img src=".\redis-picture\4.png" alt="3" style="zoom:60%;" />
+<img src="https://raw.githubusercontent.com/StayPassion/Java-Interview/master/docs/redis-picture/4.png" alt="3" style="zoom:60%;" />
 
 **误判率**：数组越小误判率就越大，数组越大误判率就越小，但是同时带来了更多的内存消耗。
 
